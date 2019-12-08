@@ -1,4 +1,4 @@
-# Simulation of a positron-induced Muon source
+# Simulation of a Positron-Induced Muon Source
 <img src=https://indico.cern.ch/event/801616/logo-243447992.png border="0"/> 
 
 ### Prerequisites
