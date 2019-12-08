@@ -17,7 +17,7 @@ Python versions supported:
 
 ### Supervised by:
 
-- Professor Marco Zanetti (University of Padova, CERN)
+- Professor [Marco Zanetti](https://github.com/mzanetti79) (University of Padova, CERN)
 - Camilla Curatolo (University of Padova, INFN)
 
 ## Useful External Links:
