@@ -22,3 +22,8 @@ Python versions supported:
 
 ## Useful External Links:
 
+1. [LEMMA](https://arxiv.org/pdf/1509.04454.pdf) paper. The original paper describing the positron-induced low emittance muon source, here all the relevant kinematic features of the process have been studied
+2. [Babayaga](https://www2.pv.infn.it/~hepcomplex/babayaga.html) event generator. You may want to install and run it as a comparison for your results.
+3. Main theoretical source : [Michael E. Peskin, Dan V. Schroeder - An Introduction to Quantum Field Theory](https://www.amazon.it/Introduction-Quantum-Field-Theory/dp/0201503972/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=An+Introduction+To+Quantum+Field+Theory&qid=1574948510&sr=8-1)
+4. Doane's formula for binning [Doane DP (1976) Aesthetic frequency classification. American Statistician, 30: 181–183
+](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.1976.10479172#.Xd_N8nVKhNw)
