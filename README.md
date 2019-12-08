@@ -33,8 +33,8 @@ All the parameters set in the simulation are easily editable.
 2. [Babayaga](https://www2.pv.infn.it/~hepcomplex/babayaga.html) Monte Carlo event generator for processes at flavour factories. It is used in our simulation for the comparison of the results obtained.
 3. Main theoretical source : 
 
-    3.1. [Michael E. Peskin, Dan V. Schroeder - An Introduction to Quantum Field Theory](https://www.amazon.it/Introduction-Quantum-Field-Theory/dp/0201503972/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=An+Introduction+To+Quantum+Field+Theory&qid=1574948510&sr=8-1)
+    3.1. [Michael E. Peskin, Dan V. Schroeder - An Introduction to Quantum Field Theory](https://www.amazon.it/Introduction-Quantum-Field-Theory/dp/0201503972/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=An+Introduction+To+Quantum+Field+Theory&qid=1574948510&sr=8-1).
 
-    3.2. [S Y Lee - Accelerator Physics](https://www.worldscientific.com/worldscibooks/10.1142/8335)
+    3.2. [S Y Lee - Accelerator Physics](https://www.worldscientific.com/worldscibooks/10.1142/8335).
   
 4. Doane's formula for binning histograms. [Doane DP (1976) Aesthetic frequency classification](https://amstat.tandfonline.com/doi/abs/10.1080/00031305.1976.10479172#.Xd_N8nVKhNw)
