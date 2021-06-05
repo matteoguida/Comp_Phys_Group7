@@ -8,6 +8,8 @@ Python versions used and supported:
 
 
 ###  Description and Results
+The work is part of a set of preliminary studies for [Low EMittance Muon Accelerator (LEMMA) Collaboration](https://inspirehep.net/experiments/1757491?ui-citation-summary=true&ui-exclude-self-citations=true).
+
 Through a Monte Carlo simulation we study the kinematic features of a low emittance muon beams from e+ e- collisions at centre-of-mass energy just above the μ+ μ- production threshold corresponding to a positron beam of about 45 GeV. 
 
 At the end we obtain the hits distribution in the detector plane and the momenta distributions in the laboratory frame for (anti-)muons.
